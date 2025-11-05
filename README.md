@@ -68,6 +68,6 @@ Provides clarity on guest preferences and channel effectiveness.
 - Hospitality Domain Metrics: ADR, RevPAR, Occupancy %, Realisation %, DSRN, DBRN, DURN, Business Storytelling & Insight Building
 
   # Live Dashboard Link -
-  
+https://app.powerbi.com/view?r=eyJrIjoiNmQ3MGY4NzAtNjE0Zi00OWJmLWFhNzktNTdiNDQ2MThlZGY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 💡 This project was a great opportunity to level up my data visualization and analytical thinking while solving a real business problem!
